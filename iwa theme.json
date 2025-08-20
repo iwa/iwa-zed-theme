@@ -309,7 +309,7 @@
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#33353D",
         "scrollbar.thumb.hover_background": "#00000000",
-        "scrollbar_thumb.background": "#33353D"
+        "scrollbar_thumb.background": "#33353D80"
       }
     },
     {

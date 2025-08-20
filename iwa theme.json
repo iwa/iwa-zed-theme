@@ -197,6 +197,11 @@
             "color": "#e5c07b",
             "font_style": null,
             "font_weight": null
+          },
+          "emphasis.strong": {
+            "color": null,
+            "font_style": null,
+            "font_weight": 600
           }
         },
         "players": [

@@ -215,8 +215,8 @@
         "editor.background": "#27282E",
         "status_bar.background": "#202126",
         "border.disabled": null,
-        "border.focused": null,
-        "border.selected": null,
+        "border.focused": "#BABFCA",
+        "border.selected": "#BABFCA",
         "border.transparent": null,
         "border.variant": "#a187e8",
         "element.active": null,
@@ -236,11 +236,11 @@
         "text.placeholder": "#acb3bf78",
         "text.disabled": "#acb3bfbf",
         "text.accent": "#a187e8",
-        "icon": "#abb2bf",
+        "icon": "#BABFCA",
         "icon.accent": "#a187e8",
-        "icon.disabled": "#acb3bfbf",
-        "icon.muted": "#8d94a0",
-        "icon.placeholder": "#acb3bf78",
+        "icon.disabled": "#BABFCAbf",
+        "icon.muted": "#80899E",
+        "icon.placeholder": "#BABFCAbf",
         "error": "#f38ba8",
         "error.border": "#f38ba8",
         "warning": "#fab387",
@@ -289,7 +289,31 @@
         "ignored": "#495162",
         "modified.background": "#e5c07b1B",
         "drop_target.background": "#2F3037",
-        "editor.document_highlight.read_background": "#3D3F48"
+        "editor.document_highlight.read_background": "#3D3F48",
+        "element.background": "#202126",
+        "element.hover": "#33353D",
+        "element.selected": "#33353D",
+        "element.disabled": null,
+        "ghost_element.background": "#202126",
+        "ghost_element.selected": "#33353D",
+        "ghost_element.hover": "#33353D",
+        "ghost_element.active": null,
+        "pane.focused_border": "#BABFCA33",
+        "panel.focused_border": "#BABFCA33",
+        "scrollbar.thumb.border": "#00000000",
+        "scrollbar.track.background": "#00000000",
+        "scrollbar.track.border": "#33353D",
+        "scrollbar.thumb.hover_background": "#00000000",
+        "scrollbar_thumb.background": "#33353D"
+      }
+    },
+    {
+      "name": "iwa theme no light",
+      "appearance": "light",
+      "style": {
+        "background": "#7e7e7e",
+        "syntax": {},
+        "players": []
       }
     }
   ]

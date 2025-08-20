@@ -299,7 +299,7 @@
         "element.hover": "#33353D",
         "element.selected": "#33353D",
         "element.disabled": null,
-        "ghost_element.background": "#202126",
+        "ghost_element.background": null,
         "ghost_element.selected": "#33353D",
         "ghost_element.hover": "#33353D",
         "ghost_element.active": null,

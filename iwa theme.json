@@ -310,6 +310,12 @@
         "scrollbar.track.border": "#33353D",
         "scrollbar.thumb.hover_background": "#00000000",
         "scrollbar_thumb.background": "#33353D80"
+        "warning.background": "#fab38733",
+        "unreachable.background": "#f38ba833",
+        "success.background": "#a6e3a133",
+        "renamed.background": "#74c7ec33",
+        "info.background": "#94e2d533",
+        "error.background": "#f38ba833"
       }
     },
     {

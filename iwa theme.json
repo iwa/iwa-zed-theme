@@ -66,6 +66,7 @@
         "info": "#94e2d5",
         "hint": "#676f7d",
         "hint.border": "#676f7d",
+        "hint.background": "#676f7d33",
         "terminal.ansi.black": "#282c34",
         "terminal.ansi.blue": "#56b6c2",
         "terminal.ansi.bright_black": "#808080",

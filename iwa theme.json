@@ -115,6 +115,17 @@
         "renamed.background": "#74c7ec33",
         "info.background": "#94e2d533",
         "error.background": "#f38ba833",
+
+        "vim.mode.text": "#202126",
+        "vim.normal.background": "#b1d4db",
+        "vim.insert.background": "#a6e3a1",
+        "vim.replace.background": "#eba0ac",
+        "vim.visual.background": "#b4befe",
+        "vim.visual_line.background": "#b4befe",
+        "vim.visual_block.background": "#cba6f7",
+        "vim.helix_normal.background": "#f5e0dc",
+        "vim.helix_select.background": "#b4befe",
+
         "syntax": {
           "comment": {
             "color": "#676f7d",
